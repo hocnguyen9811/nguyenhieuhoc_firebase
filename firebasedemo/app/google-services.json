@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974366206647",
+    "project_id": "hoc1-131bb",
+    "storage_bucket": "hoc1-131bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974366206647:android:3f0278e0031257a8cffb32",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974366206647-lq918opdi0turahss63mi5bkregnin7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzRT8Pf5mQwAkihaiPMuenBpNJcjSj2AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974366206647-lq918opdi0turahss63mi5bkregnin7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
